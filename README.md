@@ -32,7 +32,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[theMaze]: https://codeSTACKr.com
+[website]: https://www.instagram.com/themaze_apesrevenge/
+[theMaze]: https://www.instagram.com/themaze_apesrevenge/
 [linkedin]: https://www.linkedin.com/in/adiel-magenheim-746799181/
 [facebook]: https://www.facebook.com/adiel.magenheim.5/
