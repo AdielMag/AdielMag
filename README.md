@@ -1,9 +1,6 @@
 ### Hi there, I'm Adiel 👋
 
 
-- 🔭 I’m currently working on a [TheMaze][theMaze]!
-
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -32,7 +29,7 @@
 
 </details>
 
-[website]: https://www.instagram.com/themaze_apesrevenge/
+[website]: https://adiel12430.wixsite.com/minit
 [theMaze]: https://www.instagram.com/themaze_apesrevenge/
 [linkedin]: https://www.linkedin.com/in/adiel-magenheim-746799181/
 [facebook]: https://www.facebook.com/adiel.magenheim.5/
